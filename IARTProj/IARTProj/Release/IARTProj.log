@@ -1,0 +1,15 @@
+﻿  IARTProj.cpp
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(14,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(37,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(64,43): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(82,44): warning C4018: '>=': signed/unsigned mismatch
+  Generating code
+  8 of 676 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IARTProj.vcxproj -> C:\Users\joaop\source\repos\IARTProj\Release\IARTProj.exe

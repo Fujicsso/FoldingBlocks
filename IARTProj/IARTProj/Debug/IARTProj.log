@@ -1,0 +1,10 @@
+﻿  IARTProj.cpp
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(14,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(37,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(48,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(68,43): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\joaop\source\repos\IARTProj\IARTProj\IARTProj.cpp(86,44): warning C4018: '>=': signed/unsigned mismatch
+  IARTProj.vcxproj -> C:\Users\joaop\source\repos\IARTProj\Debug\IARTProj.exe
